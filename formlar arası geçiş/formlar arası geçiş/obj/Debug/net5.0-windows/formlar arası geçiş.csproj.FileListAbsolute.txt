@@ -1,0 +1,19 @@
+C:\Users\Yunus Emre\source\repos\formlar arası geçiş\formlar arası geçiş\bin\Debug\net5.0-windows\formlar arası geçiş.exe
+C:\Users\Yunus Emre\source\repos\formlar arası geçiş\formlar arası geçiş\bin\Debug\net5.0-windows\formlar arası geçiş.deps.json
+C:\Users\Yunus Emre\source\repos\formlar arası geçiş\formlar arası geçiş\bin\Debug\net5.0-windows\formlar arası geçiş.runtimeconfig.json
+C:\Users\Yunus Emre\source\repos\formlar arası geçiş\formlar arası geçiş\bin\Debug\net5.0-windows\formlar arası geçiş.runtimeconfig.dev.json
+C:\Users\Yunus Emre\source\repos\formlar arası geçiş\formlar arası geçiş\bin\Debug\net5.0-windows\formlar arası geçiş.dll
+C:\Users\Yunus Emre\source\repos\formlar arası geçiş\formlar arası geçiş\bin\Debug\net5.0-windows\ref\formlar arası geçiş.dll
+C:\Users\Yunus Emre\source\repos\formlar arası geçiş\formlar arası geçiş\bin\Debug\net5.0-windows\formlar arası geçiş.pdb
+C:\Users\Yunus Emre\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\net5.0-windows\formlar arası geçiş.csproj.AssemblyReference.cache
+C:\Users\Yunus Emre\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\net5.0-windows\formlar_arası_geçiş.Form1.resources
+C:\Users\Yunus Emre\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\net5.0-windows\formlar_arası_geçiş.Form2.resources
+C:\Users\Yunus Emre\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\net5.0-windows\formlar arası geçiş.csproj.GenerateResource.cache
+C:\Users\Yunus Emre\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\net5.0-windows\formlar arası geçiş.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunus Emre\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\net5.0-windows\formlar arası geçiş.AssemblyInfoInputs.cache
+C:\Users\Yunus Emre\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\net5.0-windows\formlar arası geçiş.AssemblyInfo.cs
+C:\Users\Yunus Emre\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\net5.0-windows\formlar arası geçiş.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\net5.0-windows\formlar arası geçiş.dll
+C:\Users\Yunus Emre\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\net5.0-windows\ref\formlar arası geçiş.dll
+C:\Users\Yunus Emre\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\net5.0-windows\formlar arası geçiş.pdb
+C:\Users\Yunus Emre\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\net5.0-windows\formlar arası geçiş.genruntimeconfig.cache
